@@ -10,14 +10,13 @@
     margin-right: 10px;
     margin-left: 10px;
 }
-
 iframe {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 .layui-body {
-    overflow: hidden;
+  overflow: hidden;
 }
 
 .userinfo {
